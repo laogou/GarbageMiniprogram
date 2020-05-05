@@ -37,6 +37,4 @@ exports.main = async(event, context) => {
       resolve(error)
     }
   })
-
-  
 }
