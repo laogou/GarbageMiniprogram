@@ -29,3 +29,4 @@ exports.main = (event, context) => {
     unionid: wxContext.UNIONID,
   }
 }
+
